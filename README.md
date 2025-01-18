@@ -1,9 +1,8 @@
-This is a challenge from FrontendMentor.io
+# Shortly
 
-did the web version only. might not be responsive to smaller devices
+This project is a challenge from FrontendMentor.io
 
-Technologies used: Next Typescript Tailwind
+Feature:
+- Shortens any URL
 
-https://shortly-lctxthk2f-davepaurillo.vercel.app/
-
-This is build for practice purposes only.
+I'm still planning if I will recreate this one. Thinking of other features to add to make it pin worthy in my socials.
